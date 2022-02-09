@@ -16,7 +16,7 @@ namespace StockManagement
 
                     foreach (var data in item)
                     {
-                        System.Console.WriteLine(data.StockName+"\t"+data.StockPrice+"\t"+Availability);
+                        System.Console.WriteLine("Stock Data is :\n"data.StockName+"\t"+data.StockPrice+"\t"+Availability);
                     }
                 }
             }
