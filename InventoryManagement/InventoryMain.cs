@@ -13,7 +13,7 @@ namespace InventoryManagement
         {
             try
             {
-                using(StreamReader reader  = new StreamReader(filepath));
+                using(StreamReader reader  = new StreamReader(filepath))
                 {
                     var json = reader.ReadToEnd();
                     var isAvailable = JsonConvert.DeserializeObject<InventoryFactory>(json);

@@ -1,0 +1,22 @@
+[
+    {
+        "StockName": "BharatP",
+        "StockPice" : 200,
+        "Availability" : "Yes"
+    },
+    {
+        "StockName": "Tata",
+        "StockPice" : 170,
+        "Availability" : "Yes"
+    },
+    {
+        "StockName": "Reliance",
+        "StockPice" : 160,
+        "Availability" : "Yes"
+    },
+    {
+        "StockName": "Zomato",
+        "StockPice" : 70,
+        "Availability" : "Yes"
+    }
+]
