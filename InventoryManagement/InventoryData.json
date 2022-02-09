@@ -1,18 +1,58 @@
-[
-    {
-        "Name" : "Wheat",
-        "Price" : 30,
-        "Weight" : 10
-    },
-    {
-        "Name" : "Rice",
-        "Price" : 35,
-        "Weight" : 15
-    },
-    {
-        "Name" : "Pulses",
-        "Price" : 20,
-        "Weight" : 7
-    }
-    
-]
+{
+    "WheatList" : [
+
+        {
+            "Name" : "A1",
+            "Price" : 30,
+            "Weight" : 10
+        },
+        {
+            "Name" : "A2",
+            "Price" : 30,
+            "Weight" : 10
+        },
+        {
+            "Name" : "A3",
+            "Price" : 30,
+            "Weight" : 10
+        }
+    ],
+
+    "RiceList" : [
+
+        {
+            "Name" : "A1",
+            "Price" : 30,
+            "Weight" : 10
+        },
+        {
+            "Name" : "A2",
+            "Price" : 30,
+            "Weight" : 10
+        },
+        {
+            "Name" : "A3",
+            "Price" : 30,
+            "Weight" : 10
+        }
+    ],
+
+    "PulsesList" : [
+
+        {
+            "Name" : "A1",
+            "Price" : 30,
+            "Weight" : 10
+        },
+        {
+            "Name" : "A2",
+            "Price" : 30,
+            "Weight" : 10
+        },
+        {
+            "Name" : "A3",
+            "Price" : 30,
+            "Weight" : 10
+        }
+    ]
+}
